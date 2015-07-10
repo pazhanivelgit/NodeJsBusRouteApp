@@ -1,0 +1,11 @@
+{
+    "staticCSRF": "39b85d05027617365c846018d7bed69fbcf9b2175f156acb071783d871f8576e5feebd0345cea0e45030629a1a46225dcf9551dfbd19b4651dc2d6fb0d28bf2f9ddd368e36c5222b2a90fb365df010f6725ed0ee349121ffaaedab027ab92d13c043534f3cdb7230205a98e56941c956936e6d0203e4f77d469f7b20115268617d79c6eb863c9ea090dba53ef8ff3c2a",
+    "Connection": {
+        "Host": "localhost",
+        "Port": "2556",
+        "UserName": "root",
+        "Password": "root",
+        "DbName": "testDB",
+        "TimeOut": "10000" 
+    } 
+}
